@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gasoul)](https://solved.ac/gasoul/)
-- 🌱 게임 프로그래머 과정 (C++, WinApi, DirectX)
+-🌱 게임 프로그래머 과정 (C ++, WinApi 완료 >>> DirextX진행중)
