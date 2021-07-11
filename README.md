@@ -4,9 +4,8 @@
 -게임 프로그래머 과정 DirextX시작
 
 ## Statistics
-  <div align=center>
+  <div align=left>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimseonju)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseonju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 
-  <div align=center>
+  <div align=left>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gasoul)](https://solved.ac/gasoul/)
 
