@@ -1,13 +1,13 @@
 <!-- statistics - username=*  -->
 ## 🌱
 
--API완료 https://www.youtube.com/watch?v=4kHWYi1C3Tk
+-2021 7월 API완료 https://www.youtube.com/watch?v=4kHWYi1C3Tk
 
--2021 7월 게임 프로그래머 과정 DirextX2D시작
+-2021 7월 DirextX2D시작
 
--2021 12월 게임 프로그래머 과정 DirextX3D시작
+-2021 12월 DirextX3D시작
 
--2022 1월 게임 프로그래머 과정 언리얼 엔진 시작
+-2022 1월 언리얼 엔진 시작
 ## Statistics
   <div align=left>
   
