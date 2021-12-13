@@ -5,7 +5,7 @@
 
 -2021 7월 DirextX2D시작
 
--2021 12월 DirextX3D시작
+-2022 1월 DirextX3D시작
 
 -2022 1월 언리얼 엔진 시작
 ## Statistics
