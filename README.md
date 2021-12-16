@@ -1,7 +1,7 @@
 <!-- statistics - username=*  -->
 ## 🌱
 
--2021 7월 API완료 https://www.youtube.com/watch?v=4kHWYi1C3Tk
+-2021 7월 API완료
 
 -2021 7월 DirextX2D시작
 
