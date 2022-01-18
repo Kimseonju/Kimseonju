@@ -3,7 +3,7 @@
 
 -2021 7월 API완료
 
--2021 7월 DirextX2D시작
+-2021 12월 DirextX2D완료
 
 -2022 1월 DirextX3D시작
 
