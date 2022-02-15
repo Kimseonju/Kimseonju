@@ -8,6 +8,8 @@
 -2022 1월 DirextX3D시작
 
 -2022 1월 언리얼 엔진 시작
+
+
 ## Statistics
   <div align=left>
   
@@ -33,7 +35,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 
+<!--
   <div align=left>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gasoul)](https://solved.ac/gasoul/)
-
+-->
