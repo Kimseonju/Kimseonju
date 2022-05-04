@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 -->
 #
   <div align=left>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gasoul)](https://solved.ac/gasoul/)
