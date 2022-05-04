@@ -1,14 +1,6 @@
 <!-- statistics - username=*  -->
 ## 🌱
 
--2021 7월 API완료
-
--2021 12월 DirextX2D완료
-
--2022 4월 DirextX3D완료
-
--2022 1월 언리얼 엔진 시작
-
 
 ## Statistics
   <div align=left>
